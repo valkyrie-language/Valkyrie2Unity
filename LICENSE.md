@@ -1,4 +1,4 @@
-Mozilla Public License Version 2.0
+LICENSE
 ==================================
 
 ### 1. Definitions

@@ -1,11 +1,19 @@
 {
-    "private": true,
-    "scripts": {
-        "doc": "cargo doc --no-deps --all-features",
-        "test": "cargo test --release",
-        "fmt": "cargo fmt --all",
-        "p": "git push && git push --tags --prune",
-        "reset": "git reset Head~ --soft",
-        "u": "cargo upgrade --workspace"
-    }
+  "name": "valkyrie.valkyrie2unity",
+  "version": "0.0.0",
+  "displayName": "Valkyrie Language on Unity",
+  "description": "A Unity plugin for compiling .vk script files into DLL assemblies",
+  "unity": "2020.0",
+  "keywords": [
+    "compiler",
+    "script",
+    "vk",
+    "dll"
+  ],
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "url": "https://yourwebsite.com"
+  },
+  "type": "tool"
 }

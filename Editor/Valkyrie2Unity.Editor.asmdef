@@ -1,0 +1,19 @@
+{
+    "name": "Valkyrie2Unity.Editor",
+    "rootNamespace": "Valkyrie2Unity",
+    "references": [
+        "UnityEditor",
+        "Valkyrie2Unity"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
